@@ -60,5 +60,7 @@ Migrate Pedigree, Plant and Trail tracking system from MS Excel & MS Access syst
 Education
 ------------------------
 
-**BSc, University of Otago**                                                              **2009 – 2012**
-**Major(s):** Plant Biotechnology, Genetics             **Minor:** Computer Science
+**BSc, University of Otago** **2009 – 2012**
+
+**Major(s):** Plant Biotechnology, Genetics
+**Minor:** Computer Science
