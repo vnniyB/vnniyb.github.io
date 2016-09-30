@@ -24,8 +24,22 @@ I value myself as a person with excellent communication skills.
 Technical skills
 -----------------------
 
-+ **Programming Languages:** R (Shiny, dplyr/tidyr, ggplot2, RODBC, DBI), SQL (MS, Postgres), Javascript, Python
-+ **Software and workflow:** Github, docker, Linux, MediaWiki, Windows, E-Brida, Excel, Access, Bartender
++ **Programming Languages:** 
+  + R (Shiny, dplyr/tidyr, ggplot2, RODBC, DBI)
+  + SQL (MS, Postgres)
+  + Javascript
+  + Python
+  
++ **Software and workflow:** 
+  + Github
+  + docker
+  + Linux
+  + MediaWiki
+  + Windows
+  + E-Brida
+  + Excel
+  + Access
+  + Bartender
 
 <br>
 
