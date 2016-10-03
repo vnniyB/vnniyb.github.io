@@ -1,10 +1,11 @@
 ---
+title: "Resume"
+author: "Vincent Borgers"
+permalink: /resume/
 layout: page
-title: Resume
-permalink: /resume/ 
 ---
 
-<p style="text-align: center;">+31 6 27207127</p>
+<p style="text-align: center;"><a href="tel:+31627207127">+31 6 27207127</a></p>
 <p style="text-align: center;"><a href="mailto:vincent.borgers@gmail.com">vincent.borgers@gmail.com</a> | <a href="www.github.com/vnniyB">www.github.com/vnniyB</a> | <a href="https://www.linkedin.com/in/vnniyB">https://www.linkedin.com/in/vnniyB</a></p>
 <br>
 
@@ -37,6 +38,8 @@ Technical skills
   + Javascript
   + Python
   
+<p> </p>
+  
 + **Software and workflow:** 
   + [Github](https://github.com/)
   + [docker](https://www.docker.com/)
@@ -54,7 +57,9 @@ Technical skills
 Work Experience
 ------------------------
 
-**Data systems Analyst: Plant and Food Research**			**Feb 2014 – Jun 2016**
+**Feb 2014 – Jun 2016** 
+<p> </p> 
+**Data systems Analyst: Plant and Food Research**
 
 Migrate Pedigree, Plant and Trail tracking system from MS Excel & MS Access systems to E-Brida software. Design a range of systems to access data from E-Brida backend (MS SQL 2008), including; 
 
@@ -73,3 +78,8 @@ Education
 
 + **Major(s):** Plant Biotechnology, Genetics
 + **Minor:** Computer Science
+
+References
+------------------------
+
+Available on request
