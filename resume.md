@@ -5,7 +5,6 @@ permalink: /resume/
 layout: page
 ---
 
-<p style="text-align: center;"><a href="tel:+31627207127">+31 6 27207127</a></p>
 <p style="text-align: center;"><a href="mailto:vincent.borgers@gmail.com">vincent.borgers@gmail.com</a> | <a href="www.github.com/vnniyB">www.github.com/vnniyB</a> | <a href="https://www.linkedin.com/in/vnniyB">https://www.linkedin.com/in/vnniyB</a></p>
 <br>
 
