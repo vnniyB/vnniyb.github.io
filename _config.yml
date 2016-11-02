@@ -18,7 +18,7 @@ thanksurl: "https://jekyllrb.com/"
 thanksname: Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vnniyb.github.io/" # the base hostname & protocol for your site
-twitter_username: vnniyB
+#twitter_username: vnniyB
 github_username:  vnniyB
 linkedin_username:  vnniyB
 
