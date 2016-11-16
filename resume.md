@@ -18,6 +18,7 @@ layout: page
 
 <p style="text-align: center;"><a href="mailto:vincent.borgers@gmail.com">vincent.borgers@gmail.com</a> | <a href="www.github.com/vnniyB">www.github.com/vnniyB</a> | <a href="https://www.linkedin.com/in/vnniyB">https://www.linkedin.com/in/vnniyB</a></p>
 <br>
+
 - D.O.B. - 14/09/1990
 - Citizenship - Dutch (EU)/New Zealand
 
